@@ -25,7 +25,7 @@ virtualenv .entornoVirtual
 
 * Clonar el repositorio:
 ``` 
-git clone
+git clone https://github.com/malcovarela00/test.git
 ```
 
 * Instalar dependencias en el entorno virtual:
